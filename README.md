@@ -1,4 +1,6 @@
-<div align="center">
+
+<div align="center">![스크린샷 2024-12-10 230140](https://github.com/user-attachments/assets/b2b89ccb-7ec4-41b4-99f7-d54572b8f475)
+
   <h1>
   <img src='https://github.com/user-attachments/assets/d2e45252-3529-4c9e-bc44-db9aff515901' width='32px' display='inline'/>
     KNN
