@@ -1,5 +1,5 @@
 <div align="center">
-  <div display='flex' alignItem='center'>
+  <div style="display: flex; align-items: center;">
     <img src='https://github.com/user-attachments/assets/d2e45252-3529-4c9e-bc44-db9aff515901' width='32px'/>
     <h1>KNN</h1>
   </div>
