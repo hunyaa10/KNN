@@ -1,9 +1,7 @@
 <div align="center">
-  <div display='flex' aling='center'>
-  <img src='https://github.com/user-attachments/assets/d2e45252-3529-4c9e-bc44-db9aff515901' width='32px'/>
-  <h1>
-    KNN
-  </h1>
+  <div display='flex' alignItem='center'>
+    <img src='https://github.com/user-attachments/assets/d2e45252-3529-4c9e-bc44-db9aff515901' width='32px'/>
+    <h1>KNN</h1>
   </div>
   <br />
 </div>
