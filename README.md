@@ -1,9 +1,10 @@
 <div align="center">
-  
+  <div display='flex' aling='center'>
+  <img src='https://github.com/user-attachments/assets/d2e45252-3529-4c9e-bc44-db9aff515901' width='32px'/>
   <h1>
-    <img src='https://github.com/user-attachments/assets/d2e45252-3529-4c9e-bc44-db9aff515901' display='inline' width='32px'/>
     KNN
   </h1>
+  </div>
   <br />
 </div>
 Deepsearch News API를 사용하여 최신 뉴스들과 주식현황을 보여주고, OpenAI를 활용하여 AI채팅기능을 탑재한 사이트를 만들었습니다.
