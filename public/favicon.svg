@@ -1,0 +1,20 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="100" height="100" rx="8" fill="url(#paint0_linear_9_103)"/>
+<path d="M7.05682 65L11.8864 35.9091H19.7841L17.8523 47.6705H18.25L28.9318 35.9091H38.1364L26.2045 48.8636L33.5341 65H24.1023L19.4432 54.0909L16.2045 57.5568L14.9545 65H7.05682ZM65.6506 35.9091L60.821 65H54.2301L46.2756 49.7159H46.1051L43.5483 65H35.6506L40.4801 35.9091H47.1847L55.0256 51.1364H55.2528L57.7528 35.9091H65.6506ZM94.5568 35.9091L89.7273 65H83.1364L75.1818 49.7159H75.0114L72.4545 65H64.5568L69.3864 35.9091H76.0909L83.9318 51.1364H84.1591L86.6591 35.9091H94.5568Z" fill="white"/>
+<line x1="39.2596" y1="65.8806" x2="44.2596" y2="34.8806" stroke="#CC0100" stroke-width="1.5"/>
+<line x1="68.2596" y1="65.8806" x2="73.2596" y2="34.8806" stroke="#CC0100" stroke-width="1.5"/>
+<line x1="57.2596" y1="65.8806" x2="62.2596" y2="34.8806" stroke="#CC0100" stroke-width="1.5"/>
+<line x1="86.2596" y1="65.8806" x2="91.2596" y2="34.8806" stroke="#CC0100" stroke-width="1.5"/>
+<line x1="44.0111" y1="38.3206" x2="57.3206" y2="63.9889" stroke="#CC0100" stroke-width="1.5" stroke-linecap="square"/>
+<line x1="73.0111" y1="38.3206" x2="86.3206" y2="63.9889" stroke="#CC0100" stroke-width="1.5" stroke-linecap="square"/>
+<line x1="15.7404" y1="35.1194" x2="10.7404" y2="66.1194" stroke="#CC0100" stroke-width="1.5"/>
+<path d="M12.4787 55.4608L11.9395 55.9821L12.9821 57.0605L13.5213 56.5392L12.4787 55.4608ZM33.8239 34.8225L12.4787 55.4608L13.5213 56.5392L34.8665 35.9009L33.8239 34.8225Z" fill="#CC0100"/>
+<line x1="29.3146" y1="66.3046" x2="21.3146" y2="48.3046" stroke="#CC0100" stroke-width="1.5"/>
+<defs>
+<linearGradient id="paint0_linear_9_103" x1="50" y1="0" x2="50" y2="100" gradientUnits="userSpaceOnUse">
+<stop stop-color="#660100"/>
+<stop offset="0.5" stop-color="#CC0100"/>
+<stop offset="1" stop-color="#660100"/>
+</linearGradient>
+</defs>
+</svg>
