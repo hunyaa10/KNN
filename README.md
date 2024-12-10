@@ -1,4 +1,5 @@
 <div align="center">
+  <img src='https://github.com/user-attachments/assets/d2e45252-3529-4c9e-bc44-db9aff515901' width='24px'/>
   <h1>
     KNN
   </h1>
